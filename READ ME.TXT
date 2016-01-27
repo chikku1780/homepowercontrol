@@ -2,4 +2,4 @@
 2. Go to jar directory (cd location)
 3. type java -jar HomePowerControl.jar
 4. Proceed accroding your desire.
-Bye.
+Bye...
